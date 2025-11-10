@@ -9,9 +9,7 @@ Sebuah aplikasi desktop sederhana yang dibuat dengan Python dan Tkinter untuk me
 
 ## Tampilan Aplikasi
 
-![Tampilan Aplikasi](assets/screenshot.png)
-
-*(**Catatan:** Anda harus mengambil screenshot aplikasi Anda, menyimpannya di folder (misal: `assets/screenshot.png`), dan mengganti nama file di atas agar gambar muncul)*
+![Tampilan Aplikasi](assets/overview-app.png)
 
 ## Fitur Utama
 
